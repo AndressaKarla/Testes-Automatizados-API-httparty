@@ -16,6 +16,13 @@ Link postagem: [Automação de Testes com HTTParty e Cucumber](https://medium.co
 λ ruby -v
 ```
 
+## Bundler
+Instalar o Bundler:
+- No Console Emulator (cmder) executar o seguinte comando:
+```ruby
+λ gem install bundler
+```
+
 ## Projeto
 - No Console Emulator (cmder), acessar a pasta onde se deseja clonar o projeto e executar o seguinte comando:
 ```ruby
