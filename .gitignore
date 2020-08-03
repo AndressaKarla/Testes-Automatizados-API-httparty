@@ -1,0 +1,5 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+features_report.html
+node_modules/
+log/
